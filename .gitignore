@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# Did not want to remove these
+libtorch/
+dist/
