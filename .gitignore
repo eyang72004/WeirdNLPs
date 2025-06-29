@@ -41,6 +41,5 @@
 *.dwo
 
 # Did not want to remove these
-libtorch/
 dist/
-
+libtorch/
