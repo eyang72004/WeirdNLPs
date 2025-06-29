@@ -1,0 +1,56 @@
+Barack_Obama PERSON
+Joe_Biden PERSON
+Taylor PERSON
+Swift PERSON
+Elon PERSON
+Musk PERSON
+Albert PERSON
+Einstein PERSON
+Ethan PERSON
+Yang PERSON
+Chris_Callison-Burch PERSON
+Mark_O'Connor PERSON
+LeBron PERSON
+James PERSON
+
+
+Microsoft ORG
+Google ORG
+OpenAI ORG
+Apple ORG
+NASA ORG
+Amazon ORG
+
+new_york LOCATION
+
+
+new_jersey LOCATION
+los_angeles LOCATION
+san_francisco LOCATION
+london LOCATION
+paris LOCATION
+tokyo LOCATION
+berlin LOCATION
+taipei LOCATION
+beijing LOCATION
+toronto LOCATION
+
+2024 DATE
+July_4 DATE
+May DATE
+18 DATE
+January DATE
+1 DATE
+Christmas DATE
+
+iPhone PRODUCT
+Galaxy PRODUCT
+Tesla PRODUCT
+ChatGPT PRODUCT
+iPad PRODUCT
+macOS PRODUCT
+
+100 NUMBER
+1.5 NUMBER
+2023 NUMBER
+10,000 NUMBER

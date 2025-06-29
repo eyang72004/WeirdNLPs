@@ -1,0 +1,98 @@
+the DT
+The DT
+a DT
+an DT
+this DT
+that DT
+these DT
+those DT
+
+i PRP
+you PRP
+he PRP
+she PRP
+it PRP
+we PRP
+they PRP
+
+is VBZ
+are VBP
+was VBD
+were VBD
+be VB
+being VBG
+been VBN
+am VBP
+
+do VBP
+does VBZ
+did VBD
+have VBP
+has VBZ
+had VBD
+
+run VB
+running VBG
+ran VBD
+walk VB
+walked VBD
+walking VBG
+eat VB
+eating VBG
+ate VBD
+gone VBN
+
+cat NN
+dog NN
+fox NN
+car NN
+apple NN
+man NN
+woman NN
+king NN
+queen NN
+
+quick JJ
+brown JJ
+lazy JJ
+happy JJ
+sad JJ
+great JJ
+nice JJ
+
+over IN
+under IN
+in IN
+on IN
+by IN
+with IN
+from IN
+to IN
+
+yes UH
+no UH
+hello UH
+please UH
+thanks UH
+
+not RB
+very RB
+too RB
+just RB
+
+jumps VBZ
+jumped VBD
+sing VB
+singing VBG
+sang VBD
+sung VBN
+
+can't VB
+won't VB
+would've MD
+beautiful JJ
+bright JJ
+slow RB
+really RB
+while IN
+although IN

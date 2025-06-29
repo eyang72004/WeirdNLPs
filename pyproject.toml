@@ -1,0 +1,21 @@
+[build-system]
+requires = ["scikit-build-core>=0.5", "pybind11[global]"]
+build-backend = "scikit_build_core.build"
+
+[project]
+name = "weirdnlp"
+version = "0.1.0"
+description = "A C++ NLP library with Python bindings"
+authors = [
+  {name = "Ethan Yang", email = "eyang72004@gmail.com"}
+]
+license = {text = "MIT"}
+
+[tool.scikit-build]
+build-dir = "build"
+cmake.source-dir = "."  
+
+[tool.scikit-build.wheel]
+install-dir = "weirdnlp"
+
+

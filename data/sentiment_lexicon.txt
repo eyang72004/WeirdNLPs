@@ -1,0 +1,105 @@
+# ===== POSITIVE =====
+love 2
+loved 2
+loves 2
+loving 2
+like 1
+liked 1
+likes 1
+liking 1
+enjoy 1
+enjoyed 1
+enjoying 1
+happy 2
+happier 2
+happiest 3
+joy 2
+joyful 3
+joyous 3
+delightful 2
+delighted 2
+great 2
+greater 2
+excellent 3
+amazing 3
+awesome 3
+fantastic 3
+wonderful 3
+genius 3
+brilliant 3
+nice 1
+pleasant 2
+satisfied 2
+satisfying 2
+beautiful 2
+adorable 2
+fine 1
+okay 1
+best 3
+glad 2
+appreciate 2
+appreciated 2
+
+# ===== NEGATIVE =====
+hate -3
+hated -3
+hates -3
+hating -3
+dislike -2
+disliked -2
+disappoint -2
+disappointed -2
+disappointing -2
+angry -2
+angrier -2
+saddened -2
+sad -2
+sadder -2
+worst -3
+bad -2
+terrible -3
+awful -3
+horrible -3
+horrendous -3
+ugly -2
+annoyed -2
+annoying -2
+unhappy -2
+boring -1
+bored -1
+frustrating -2
+frustrated -2
+miserable -3
+worthless -3
+mediocre -1
+dumb -2
+disgusting -3
+upset -2
+regret -2
+regrettable -2
+
+# ===== NEUTRAL / MIXED =====
+meh 0
+fine 0
+okay 0
+neutral 0
+maybe 0
+unsure 0
+average 0
+so-so 0
+
+# ===== INTENSIFIERS / MODIFIERS (scored as 0) =====
+very 0
+really 0
+extremely 0
+incredibly 0
+super 0
+absolutely 0
+slightly 0
+somewhat 0
+barely 0
+a bit 0
+a little 0
+too 0
+not 0
+never 0

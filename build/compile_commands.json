@@ -1,0 +1,170 @@
+[
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/corpus.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/corpus.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/corpus.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/corpus.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/deep_models.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/deep_models.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/deep_models.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/deep_models.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/embeddings.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/embeddings.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/embeddings.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/embeddings.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/lemmatization.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/lemmatization.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/lemmatization.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/lemmatization.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/markov_chain.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/markov_chain.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/markov_chain.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/markov_chain.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/ml_models.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/ml_models.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/ml_models.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/ml_models.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/ner.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/ner.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/ner.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/ner.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/sentiment.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/sentiment.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/sentiment.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/sentiment.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/stemming.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/stemming.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/stemming.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/stemming.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/syntax.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/syntax.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/syntax.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/syntax.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/tokenization.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/tokenization.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/tokenization.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/tokenization.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/utils.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/utils.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/utils.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/weirdNLPpp.dir/src/vectorization.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/src/vectorization.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/src/vectorization.cpp",
+  "output": "CMakeFiles/weirdNLPpp.dir/src/vectorization.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_tokenization.dir/tests/test_tokenization.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_tokenization.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_tokenization.cpp",
+  "output": "CMakeFiles/test_tokenization.dir/tests/test_tokenization.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_stemming.dir/tests/test_stemming.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_stemming.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_stemming.cpp",
+  "output": "CMakeFiles/test_stemming.dir/tests/test_stemming.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_lemmatization.dir/tests/test_lemmatization.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_lemmatization.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_lemmatization.cpp",
+  "output": "CMakeFiles/test_lemmatization.dir/tests/test_lemmatization.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_corpus.dir/tests/test_corpus.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_corpus.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_corpus.cpp",
+  "output": "CMakeFiles/test_corpus.dir/tests/test_corpus.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_vectorization.dir/tests/test_vectorization.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_vectorization.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_vectorization.cpp",
+  "output": "CMakeFiles/test_vectorization.dir/tests/test_vectorization.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_embeddings.dir/tests/test_embeddings.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_embeddings.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_embeddings.cpp",
+  "output": "CMakeFiles/test_embeddings.dir/tests/test_embeddings.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_syntax.dir/tests/test_syntax.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_syntax.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_syntax.cpp",
+  "output": "CMakeFiles/test_syntax.dir/tests/test_syntax.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_ner.dir/tests/test_ner.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_ner.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_ner.cpp",
+  "output": "CMakeFiles/test_ner.dir/tests/test_ner.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_sentiment.dir/tests/test_sentiment.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_sentiment.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_sentiment.cpp",
+  "output": "CMakeFiles/test_sentiment.dir/tests/test_sentiment.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_ml_models.dir/tests/test_ml_models.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_ml_models.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_ml_models.cpp",
+  "output": "CMakeFiles/test_ml_models.dir/tests/test_ml_models.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_deep_models.dir/tests/test_deep_models.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_deep_models.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_deep_models.cpp",
+  "output": "CMakeFiles/test_deep_models.dir/tests/test_deep_models.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_utils.dir/tests/test_utils.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_utils.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_utils.cpp",
+  "output": "CMakeFiles/test_utils.dir/tests/test_utils.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/test_markov_chain.dir/tests/test_markov_chain.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/tests/test_markov_chain.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/tests/test_markov_chain.cpp",
+  "output": "CMakeFiles/test_markov_chain.dir/tests/test_markov_chain.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -std=gnu++17 -arch arm64 -o CMakeFiles/example_pipeline.dir/examples/example_pipeline.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/examples/example_pipeline.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/examples/example_pipeline.cpp",
+  "output": "CMakeFiles/example_pipeline.dir/examples/example_pipeline.cpp.o"
+},
+{
+  "directory": "/Users/ethanyang/Downloads/WeirdNLPs/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -Dweirdnlp_EXPORTS -I/Users/ethanyang/Downloads/WeirdNLPs/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include -isystem /Users/ethanyang/Downloads/WeirdNLPs/.venv/include -isystem /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13 -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/weirdnlp.dir/bindings/bindings.cpp.o -c /Users/ethanyang/Downloads/WeirdNLPs/bindings/bindings.cpp",
+  "file": "/Users/ethanyang/Downloads/WeirdNLPs/bindings/bindings.cpp",
+  "output": "CMakeFiles/weirdnlp.dir/bindings/bindings.cpp.o"
+}
+]

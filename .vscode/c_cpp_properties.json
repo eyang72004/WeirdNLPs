@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/ethanyang/Downloads/WeirdNLPs/libtorch/include",
+                "/Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc/api/include",
+                "/Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/torch/csrc",
+                "/Users/ethanyang/Downloads/WeirdNLPs/libtorch/include/ATen",
+                "/opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13/include/python3.13"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
