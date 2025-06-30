@@ -311,15 +311,34 @@ In this module, I attempted to make the component useful for generating creative
 
 ## Installation and Setup
 
+### Local Installation (Development Mode)
 To install WeirdNLP locally (e.g., my own PC):
 ```bash
 pip install .
 ```
 
+Please ensure that you have all necessary dependencies installed beforehand. I suppose you can try `pip install -e .` to install in "editable" mode, which can hopefully reflect code changes immediately without needing to reinstall.
+
+#### Important:
+This project does depend on LibTorch (can find at `https://pytorch.org/get-started/locally/`).
+Please download the appropriate version for your OS, unzip it, and place the `libtorch/` folder at the root of this repository:
+```css
+WeirdNLPs/
+├── libtorch/
+│   ├── include/
+│   └── lib/
+├── src/
+├── CMakeLists.txt
+```
+
+If you happen to use pretrained models and/or artifacts, make sure a `dist/` folder is present. I excluded it from GitHub so that the repo is more lightweight.
+
+### Installing through PyPI
 When I (hopefully) publish this to places such as PyPI, one will hopefully be able to install WeirdNLP like so:
 ```bash
 pip install weirdnlp
 ```
+Stay tuned for more updates!
 
 ### Prerequisites
 
