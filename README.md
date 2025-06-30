@@ -320,7 +320,7 @@ pip install .
 Please ensure that you have all necessary dependencies installed beforehand. I suppose you can try `pip install -e .` to install in "editable" mode, which can hopefully reflect code changes immediately without needing to reinstall.
 
 #### Important:
-This project does depend on LibTorch (can find at `https://pytorch.org/get-started/locally/`).
+This project does depend on [LibTorch](https://pytorch.org/get-started/locally/)...
 Please download the appropriate version for your OS, unzip it, and place the `libtorch/` folder at the root of this repository:
 ```text
 WeirdNLPs/
