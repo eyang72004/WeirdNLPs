@@ -322,7 +322,7 @@ Please ensure that you have all necessary dependencies installed beforehand. I s
 #### Important:
 This project does depend on LibTorch (can find at `https://pytorch.org/get-started/locally/`).
 Please download the appropriate version for your OS, unzip it, and place the `libtorch/` folder at the root of this repository:
-```css
+```text
 WeirdNLPs/
 ├── libtorch/
 │   ├── include/
