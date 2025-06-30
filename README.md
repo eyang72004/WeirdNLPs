@@ -312,7 +312,7 @@ In this module, I attempted to make the component useful for generating creative
 ## Installation and Setup
 
 ### Local Installation (Development Mode)
-To install WeirdNLP locally (e.g., my own PC):
+To install WeirdNLPs locally (e.g., my own PC):
 ```bash
 pip install .
 ```
@@ -334,7 +334,7 @@ WeirdNLPs/
 If you happen to use pretrained models and/or artifacts, make sure a `dist/` folder is present. I excluded it from GitHub so that the repo is more lightweight.
 
 ### Installing through PyPI
-When I (hopefully) publish this to places such as PyPI, one will hopefully be able to install WeirdNLP like so:
+When I (hopefully) publish this to places such as PyPI, one will hopefully be able to install WeirdNLPs like so:
 ```bash
 pip install weirdnlp
 ```
@@ -342,7 +342,7 @@ Stay tuned for more updates!
 
 ### Prerequisites
 
-Prior to installing WeirdNLP, please ensure you have the following:
+Prior to installing WeirdNLPs, please ensure you have the following:
 
 - **Python ≥ 3.8**: For `pip` installation and Python-side use
 - **C++17-Compatible Compiler**: For instance `g++`, `clang++`, etc. for C++ extensions
@@ -419,7 +419,7 @@ In principle, I was not trying to strive for a production-ready, state-of-the-ar
 
 ## Known Quirks
 
-Quite frankly, there are quite a bit of weird (and somewhat janky) quirks lying in WeirdNLP. Here are a few:
+Quite frankly, there are quite a bit of weird (and somewhat janky) quirks lying in WeirdNLPs. Here are a few:
 - Some modules (like NER) rely primarily on fragile lexicons and naive matching.
 - Unicode support is limited in several places (e.g., tokenization, vectorization...).
 - I do not perceive any GPU support yet....though Phase 11 does use CPU-based TorchScript inference..
@@ -438,7 +438,7 @@ So in principle -- WeirdNLPs is never meant to be perfect -- however, it *was* m
 While many of the future works could be addressed through the potential improvements for each of the 13 phases, there is a lot more to explore...
 - **Multilingual NLP Support**: Especially for tokenization, stemming, and lemmatization. English-only pipelines can be limiting, and expanding language support would make this toolkit far more versatile.
 - **Integrated Neural Tokenizers**: Possibly bringing in Byte Pair Encoding or SentencePiece could help bridge the gap between traditional NLP and modern transformer-based preprocessing.
-- **Interactive CLI / REPL Tools**: Allowing users to run tokenization, vectorization, tagging, or even sentiment analysis from the terminal would make WeirdNLP (hopefully) easier and more fun to interact with.
+- **Interactive CLI / REPL Tools**: Allowing users to run tokenization, vectorization, tagging, or even sentiment analysis from the terminal would make WeirdNLPs (hopefully) easier and more fun to interact with.
 - **Unit Testing Coverage**: Every phase deserves robust test suites. I think that using `pytest` on the Python side and maybe `catch2` and/or `doctest` for C++ would hopefully ensure things break less often...or at least more predictably..
 - **Better Error Reporting**: Logging unknown words, token mismatches, or fallback behavior would help both users and developers understand what the system is doing (or failing to do).
 - **Auto-Downloads and Sanity Checks**: Theoretically speaking, downloading lexicons and/or models with one command. One may not have to manually copy as much anymore -- just better defaults, versioning, and hopefully clean installs.
