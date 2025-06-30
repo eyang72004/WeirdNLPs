@@ -382,6 +382,19 @@ Such files are **not hardcoded** into the compiled library, so one may choose to
 
 If you install via `pip` and happen to not see such files, then try cloning the repository and copy the necessary `.txt` files into your working directory or an appropriate path.
 
+#### For Developers and Contributors
+To clone and install locally: 
+```bash
+git clone https://github.com/eyang72004/WeirdNLPs.git
+cd WeirdNLPs
+pip install .
+```
+
+#### For End Users (also covered in Installing through PyPI in Installation and Setup somewhat...)
+```bash
+pip install weirdnlp
+```
+
 
 ## How to Use
 
