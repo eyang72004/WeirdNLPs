@@ -1,7 +1,11 @@
+# ========================
+# Build and Compiled Files
+# ========================
+
 # Prerequisites
 *.d
 
-# Compiled Object files
+# Compiled Object Files
 *.slo
 *.lo
 *.o
@@ -11,22 +15,19 @@
 *.gch
 *.pch
 
-# Linker files
+# Linker Files
 *.ilk
 
 # Debugger Files
 *.pdb
+*.dwo
 
-# Compiled Dynamic libraries
+# Compiled Dynamic Libraries
 *.so
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
+# Compiled Static Libraries
 *.lai
 *.la
 *.a
@@ -37,9 +38,49 @@
 *.out
 *.app
 
-# debug information files
-*.dwo
+# Fortran Module Files
+*.mod
+*.smod
 
-# Did not want to remove these
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ========================
+# CMake/Ninja Build System
+# ========================
+
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+.ninja_deps
+.ninja_log
+
+# ========================
+# macOS / OS-specific
+# ========================
+
+.DS_Store
+
+# ========================
+# VSCode
+# ========================
+
+.vscode/
+
+# ========================
+# Large or Non-Git-tracked Directories
+# ========================
+
+# These folders should remain locally but never be tracked by Git:
 dist/
 libtorch/
+
+# If these folders could exist at multiple levels, use:
+# **/dist/
+# **/libtorch/
