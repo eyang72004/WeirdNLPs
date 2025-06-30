@@ -433,7 +433,7 @@ In a nutshell, everything is still quite experimental -- so while it may serve a
 
 ## Future Works
 
-So in principle -- WeirdNLP is never meant to be perfect -- however, it *was* meant to grow.
+So in principle -- WeirdNLPs is never meant to be perfect -- however, it *was* meant to grow.
 
 While many of the future works could be addressed through the potential improvements for each of the 13 phases, there is a lot more to explore...
 - **Multilingual NLP Support**: Especially for tokenization, stemming, and lemmatization. English-only pipelines can be limiting, and expanding language support would make this toolkit far more versatile.
@@ -448,6 +448,6 @@ While many of the future works could be addressed through the potential improvem
 
 ---
 
-Honestly, WeirdNLP is meant to be a platform for **learning, tinkering, and hacking** (not in an unethical sense..) -- not necessarily a drop-in production solution. But, I think, that is the beauty of things...it is weird, yet educational and (hopefully) useful in a sense.
+Honestly, WeirdNLPs is meant to be a platform for **learning, tinkering, and hacking** (not in an unethical sense..) -- not necessarily a drop-in production solution. But, I think, that is the beauty of things...it is weird, yet educational and (hopefully) useful in a sense.
 
 Pull requests and contributions are welcome.
