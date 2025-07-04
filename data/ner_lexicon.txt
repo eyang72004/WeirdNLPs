@@ -34,6 +34,8 @@ berlin LOCATION
 taipei LOCATION
 beijing LOCATION
 toronto LOCATION
+the_Amazon LOCATION
+Amazon_River LOCATION
 
 2024 DATE
 July_4 DATE
