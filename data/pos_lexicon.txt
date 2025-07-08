@@ -96,3 +96,120 @@ slow RB
 really RB
 while IN
 although IN
+
+
+my DT  
+your DT  
+his DT  
+her DT  
+its DT  
+our DT  
+their DT  
+each DT  
+every DT  
+some DT  
+any DT  
+no DT  
+
+me PRP  
+him PRP  
+us PRP  
+them PRP  
+
+mine PRP$  
+yours PRP$  
+hers PRP$  
+ours PRP$  
+theirs PRP$  
+
+can MD  
+could MD  
+will MD  
+would MD  
+shall MD  
+should MD  
+may MD  
+might MD  
+must MD  
+
+eaten VBN  
+went VBD  
+made VBD  
+made VBN  
+make VB  
+say VB  
+said VBD  
+said VBN  
+see VB  
+saw VBD  
+seen VBN  
+go VB  
+taken VBN  
+take VB  
+took VBD  
+give VB  
+gave VBD  
+given VBN  
+
+house NN  
+tree NN  
+computer NN  
+phone NN  
+child NN  
+teacher NN  
+student NN  
+book NN  
+river NN  
+mountain NN  
+city NN  
+road NN  
+idea NN  
+truth NN  
+music NN  
+
+dark JJ  
+funny JJ  
+smart JJ  
+tall JJ  
+short JJ  
+angry JJ  
+quiet JJ  
+loud JJ  
+cold JJ  
+warm JJ  
+young JJ  
+old JJ  
+
+quickly RB  
+loudly RB  
+happily RB  
+sadly RB  
+badly RB  
+well RB  
+often RB  
+always RB  
+never RB  
+sometimes RB  
+already RB  
+soon RB  
+
+at IN  
+of IN  
+about IN  
+into IN  
+through IN  
+after IN  
+before IN  
+between IN  
+during IN  
+because IN  
+
+wow UH  
+oops UH  
+hey UH  
+ugh UH  
+hmm UH  
+ah UH  
+
+jumping VBG  
+jump VB  
