@@ -56,3 +56,76 @@ macOS PRODUCT
 1.5 NUMBER
 2023 NUMBER
 10,000 NUMBER
+
+
+Ada_Lovelace PERSON  
+Marie_Curie PERSON  
+Jeff_Bezos PERSON  
+Bill_Gates PERSON  
+Sundar_Pichai PERSON  
+Tim_Cook PERSON  
+Serena_Williams PERSON  
+Lionel_Messi PERSON  
+Oprah_Winfrey PERSON  
+Beyoncé PERSON  
+Rihanna PERSON  
+Morgan_Freeman PERSON  
+Tom_Hanks PERSON  
+Emma_Watson PERSON  
+
+Facebook ORG  
+Meta ORG  
+IBM ORG  
+Tesla ORG  
+Samsung ORG  
+Sony ORG  
+NVIDIA ORG  
+Netflix ORG  
+SpaceX ORG  
+MIT ORG  
+Stanford_University ORG  
+
+chicago LOCATION  
+boston LOCATION  
+seattle LOCATION  
+austin LOCATION  
+rome LOCATION  
+madrid LOCATION  
+sydney LOCATION  
+hong_kong LOCATION  
+seoul LOCATION  
+moscow LOCATION  
+mount_everest LOCATION  
+sahara_desert LOCATION  
+the_Nile LOCATION  
+
+2025 DATE  
+August_15 DATE  
+December DATE  
+2 DATE  
+July DATE  
+October DATE  
+Halloween DATE  
+Easter DATE  
+
+PlayStation PRODUCT  
+Surface PRODUCT  
+Pixel PRODUCT  
+Kindle PRODUCT  
+AirPods PRODUCT  
+Windows PRODUCT  
+Android PRODUCT  
+Coca-Cola PRODUCT  
+Pepsi PRODUCT  
+PlayStation_5 PRODUCT  
+
+2.0 NUMBER  
+300 NUMBER  
+7,500 NUMBER  
+42 NUMBER  
+0.99 NUMBER  
+1,000,000 NUMBER  
+3.14159 NUMBER  
+2001 NUMBER  
+1999 NUMBER  
+85 NUMBER  
